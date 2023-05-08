@@ -1,0 +1,8 @@
+Storage engine
+The storage engine is the core component of the DBMS that interacts with the file system at an OS level to store data. All SQL queries which interact with the underlying data go through the storage engine.
+Log manager
+This component will keep all the logs of the DBMS. These logs will consist of user logins and activity, database functions, backups and restore functions, etc. The log manager ensures all these logs are properly recorded and easily accessible.
+Reporting & monitoring tools
+Reporting and monitoring tools are another standard component that comes with a DBMS. Reporting tools will enable users to generate reports while monitoring tools enable monitoring the databases for resource consumption, user activity, etc.
+Query processor
+This is the intermediary between the user queries and the database. The query processor interprets the queries of users and makes them actionable commands that can be understood by the database to perform the appropriate functionality.

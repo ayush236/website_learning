@@ -1,0 +1,10 @@
+Real World Entity
+The DBMS has been designed in such a way that it can cater to the needs of huge business organizations and can store large data with efficient operations on them. Database can store things like cost of vegetables or cost of different brands of breads or milk etc. The entities in the database look like the real world entities (please have a look at the table for student database shown below).
+Stores Any Kind of Structured Data
+DBMS can store practically any data that exists in the world and is structured and this is yet another very important characteristic because we need to work on every kind of data present.
+Security
+The access to make changes to a database by the user is limited and the users not able to access enitre database.
+Ease of access
+we can run a search query to  find any data and the process is way faster then manual searching and is more reliable
+
+https://www.interviewbit.com/

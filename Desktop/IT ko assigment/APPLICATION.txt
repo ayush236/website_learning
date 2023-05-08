@@ -1,0 +1,11 @@
+Railway Reservation System –
+In the rail route reservation framework, the information base is needed to store the record or information of ticket appointments, status about train’s appearance, and flight. Additionally, if trains get late, individuals become acquainted with it through the information base update.  
+ 
+Library Management System –
+There are lots of books in the library so; it is difficult to store the record of the relative multitude of books in a register or duplicate. Along these lines, the data set administration framework (DBMS) is utilized to keep up all the data identified with the name of the book, issue date, accessibility of the book, and its writer.  
+ 
+Banking –
+Database the executive’s framework is utilized to store the exchange data of the client in the information base.
+  
+Education Sector –
+Presently, assessments are led online by numerous schools and colleges. They deal with all assessment information through the data set administration framework (DBMS). In spite of that understudy’s enlistments subtleties, grades, courses, expense, participation, results, and so forth all the data is put away in the information base.  
